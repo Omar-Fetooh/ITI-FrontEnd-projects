@@ -1,1 +1,1 @@
-<video src="ITI-FrontEnd-projects/Recording 2024-09-01 012624.mp4"></video>
+[Watch the demo video](ITI-FrontEnd-projects/Recording%202024-09-01%20012624.mp4)
